@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCC6751", "GCC6751.csproj", "{3C26E0FC-7D27-4F63-940F-7D829BFA784E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{954BB46A-BD6B-4247-A7A6-D2D51CB96AF9}"
+	ProjectSection(SolutionItems) = preProject
+		GccCommands.pdf = GccCommands.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C26E0FC-7D27-4F63-940F-7D829BFA784E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C26E0FC-7D27-4F63-940F-7D829BFA784E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C26E0FC-7D27-4F63-940F-7D829BFA784E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C26E0FC-7D27-4F63-940F-7D829BFA784E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA5E8C06-0915-43AA-8DAF-ADCEC09AE1D6}
+	EndGlobalSection
+EndGlobal
