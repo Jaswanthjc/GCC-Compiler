@@ -4,8 +4,7 @@ Project requirements are found in Project.6751w20.pdf
 
 This a smart self-adjusting GCC compiler used for C++ program developement.
 
-The compiler is designed to operate for three types of users and self adjusts the options for the user according to the user type.
-
+The compiler is designed to operate for three types of users and self adjusts the options according to the user type.
 
 The different user types are:
 
